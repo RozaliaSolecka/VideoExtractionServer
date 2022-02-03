@@ -47,8 +47,6 @@ If you need to include new libraries in the environment, then you need to update
 There are also a few scripts in `scripts` folder, they are described in additional README files there.
 
 # Contact and contributors
-If there is any additional information needed, you can write an email to t.piechocki@yahoo.com ([@TPiechocki at GitHub](https://github.com/TPiechocki)) at any time and I will be happy to provide help as far as possible.
-
 Contributors:
 - Tomasz Piechocki - (https://github.com/TPiechocki))
 - Rozalia Solecka
