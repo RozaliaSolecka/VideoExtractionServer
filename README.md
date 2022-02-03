@@ -50,7 +50,7 @@ There are also a few scripts in `scripts` folder, they are described in addition
 If there is any additional information needed, you can write an email to t.piechocki@yahoo.com ([@TPiechocki at GitHub](https://github.com/TPiechocki)) at any time and I will be happy to provide help as far as possible.
 
 Contributors:
-- Tomasz Piechocki - t.piechocki@yahoo.com ([@TPiechocki at GitHub](https://github.com/TPiechocki))
+- Tomasz Piechocki - (https://github.com/TPiechocki))
 - Rozalia Solecka
 - Mateusz Nieścier
 
