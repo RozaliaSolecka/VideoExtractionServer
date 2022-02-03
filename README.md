@@ -1,3 +1,6 @@
+# Engineering project
+> The program was prepared as a group engineering project
+
 # Introduction 
 This program allows performing detection and classification of LEGO bricks. It can work with videos in mp4 format, which contains the bricks moving from the right side to the left, or with any photos stored in any folder.
 Object detection is using either YOLOv4-tiny neural network model or YOLOv5s model. Classification of detected bricks is done using classifier loaded by Keras library as the part of TensorFlow.
